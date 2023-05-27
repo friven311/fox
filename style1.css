@@ -1,0 +1,459 @@
+.frame{
+  position: relative;
+  width: 1440px;
+  height: 2508px;
+  background: #FFFFFF;
+ }
+  .header{
+    position: absolute;
+    width: 1440px;
+    height: 780px;
+    left: 0px;
+    top: -1px;
+    background: url(Rectangle.png);
+    filter: drop-shadow(-150px 0px 150px #02160B);
+    border-radius: 0px;
+  }
+    .icon1{
+      position: absolute;
+      left: 121.07px;
+      right: 1.04%;
+      top: 20.8px;
+      bottom: 1.28%;
+      background: #FFFFFF;
+    }
+    .icon2{
+      position: absolute;
+      left: 1111px;
+      right: 14.65%;
+      top: 38px;
+      bottom: 14.65%;
+      background: #FFFFFF;
+      background: url(Vector.png) no-repeat;
+      border-radius: 0px;
+    }
+    .wildlife{
+      position: absolute;
+      width: 155px;
+      height: 60px;
+      left: 205px;
+      top: 19px;
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 32px;
+      line-height: 60px;
+      text-transform: uppercase;
+      color: #F7F7F7;
+    }
+    .blog{
+      position: absolute;
+      width: 50px;
+      height: 60px;
+      left: 840px;
+      top: 19px;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 23px;
+      line-height: 60px;
+      color: #F7F7F7;
+
+    }
+    .contacts{
+      position: absolute;
+      width: 96px;
+      height: 60px;
+      left: 951px;
+      top: 19px;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 23px;
+      line-height: 60px;
+      color: #F7F7F7;
+
+    }
+    .btn-sign{
+      box-sizing: border-box;
+      position: absolute;
+      width: 120px;
+      height: 50px;
+      left: 1200px;
+      top: 24px;
+      border: 2px solid #CD6326;
+      border-radius: 5px;
+      background-color: transparent;
+      cursor: pointer;
+
+    }
+      .sign{
+        position: absolute;
+        width: 74px;
+        height: 48px;
+        left: 1223px;
+        top: 26px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 27px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #F7F7F7;
+      }
+    .surv{
+      position: absolute;
+      width: 199px;
+      height: 72px;
+      left: 120px;
+      top: 199px;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 48px;
+      line-height: 72px;
+      letter-spacing: 2px;
+      color: #CD6326;
+    }
+    .text{
+      position: absolute;
+      width: 274px;
+      height: 108px;
+      left: 120px;
+      top: 322px;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 27px;
+      color: #F7F7F7;
+    }
+    .btn-donate{
+      position: absolute;
+      width: 160px;
+      height: 60px;
+      left: 120px;
+      top: 479px;
+      background: #CD6326;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+      .donate{
+        position: absolute;
+        width: 76px;
+        height: 27px;
+        left: 162px;
+        top: 495px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 23px;
+        line-height: 27px;
+        text-align: center;
+        color: #F7F7F7;
+      }
+.middle{
+  position: absolute;
+  width: 1440px;
+  height: 1368px;
+  left: 0px;
+  top: 780px;
+  background: #CCCCCC;
+  border-radius: 0px;
+}
+  .latest{
+    position: absolute;
+    width: 324px;
+    height: 72px;
+    left: 558px;
+    top: 120px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    text-align: center;
+    color: #333333;
+  }
+  .news{
+    position: absolute;
+    width: 332px;
+    height: 36px;
+    left: 554px;
+    top: 212px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    color: #666666;
+  }
+  .icon-deer{
+    position: absolute;
+    width: 300px;
+    height: 360px;
+    left: 210px;
+    top: 368px;
+
+    background: url(Deer.png);
+    border-radius: 0px;
+  }
+    .deer{
+      position: absolute;
+      width: 52px;
+      height: 36px;
+      left: 334px;
+      top: 615px;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 36px;
+      text-align: center;
+      color: #F7F7F7;
+    }
+    .natur{
+      position: absolute;
+      width: 186px;
+      height: 27px;
+      left: 267px;
+      top: 661px;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 27px;
+      text-align: center;
+      color: #F7F7F7;
+
+    }
+  .icon-sq{
+    position: absolute;
+    width: 300px;
+    height: 360px;
+    left: 570px;
+    top: 368px;
+    background: url(Squirrel.png);
+    border-radius: 0px;
+  }
+    .sq{
+      position: absolute;
+      width: 82px;
+      height: 36px;
+      left: 679px;
+      top: 615px;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 36px;
+      text-align: center;
+      color: #F7F7F7;
+    }
+    .kam{
+      position: absolute;
+      width: 152px;
+      height: 27px;
+      left: 644px;
+      top: 661px;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 27px;
+      text-align: center;
+      color: #F7F7F7;
+    }
+  .icon-bird{
+    position: absolute;
+    width: 300px;
+    height: 360px;
+    left: 930px;
+    top: 368px;
+    background: url(Bird.jpg);
+    border-radius: 0px;
+  }
+    .bird{
+      position: absolute;
+      width: 43px;
+      height: 36px;
+      left: 1059px;
+      top: 615px;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 36px;
+      text-align: center;
+      color: #F7F7F7;
+    }
+    .fight{
+      position: absolute;
+      width: 125px;
+      height: 27px;
+      left: 1018px;
+      top: 661px;
+      font-family: 'Open Sans';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 27px;
+      text-align: center;
+      color: #F7F7F7;
+    }
+  .text1{
+    position: absolute;
+    width: 526px;
+    height: 41px;
+    left: 457px;
+    top: 967px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 40px;
+    text-align: center;
+    color: #333333;
+  }
+  .email{
+    position: absolute;
+    width: 510px;
+    height: 60px;
+    left: 405px;
+    top: 1069px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    display: flex;
+    align-items: center;
+    color: #666666;
+  }
+    .line-h{
+      position: absolute;
+      width: 540px;
+      height: 1px;
+      left: 390px;
+      top: 1067px;
+      background: #666666;
+    }
+    .line-w{
+      position: absolute;
+      width: 1px;
+      height: 60px;
+      left: 389px;
+      top: 1068px;
+      background: #666666;
+    }
+    .line-h2{
+      position: absolute;
+      width: 540px;
+      height: 1px;
+      left: 390px;
+      top: 1128px;
+      background: #666666;
+    }
+      .btn-send{
+        position: absolute;
+        width: 120px;
+        height: 60px;
+        left: 930px;
+        top: 1068px;
+        background: #CD6326;
+        border: 1px solid #CD6326;
+        border-radius: 0px 5px 5px 0px;
+        cursor: pointer;
+      }
+        .send{
+          position: absolute;
+          width: 120px;
+          height: 59px;
+          left: 965px;
+          top: 1069px;
+          font-family: 'Roboto';
+          font-style: normal;
+          font-weight: 400;
+          font-size: 23px;
+          line-height: 27px;
+          display: flex;
+          align-items: center;
+          text-align: center;
+          color: #F7F7F7;
+        }
+.footer{
+  position: absolute;
+  width: 1440px;
+  height: 360px;
+  left: 0px;
+  top: 2148px;
+  background: url(Foot.png);
+  border-radius: 0px;
+}
+  .wildlife1{
+    position: absolute;
+    width: 155px;
+    height: 60px;
+    left: 205px;
+    top: 150px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 60px;
+    text-transform: uppercase;
+    color: #F7F7F7;
+  }
+  .art{
+    position: absolute;
+    width: 80px;
+    height: 60px;
+    left: 480px;
+    top: 150px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 60px;
+    color: #F7F7F7;
+  }
+  .about{
+    position: absolute;
+    width: 100px;
+    height: 60px;
+    left: 646px;
+    top: 150px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 60px;
+    color: #F7F7F7;
+  }
+  .learn{
+    position: absolute;
+    width: 129px;
+    height: 60px;
+    left: 831px;
+    top: 150px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 60px;
+    color: #F7F7F7;
+  }
+  .icon3{
+    position: absolute;
+    left: 121.07px;
+    right: 1.04%;
+    top: 150.8px;
+    bottom: 1.28%;
+    background: #FFFFFF;
+    background: url(path0.png) no-repeat;
+    border-radius: 0px;
+
+  }
